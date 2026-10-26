@@ -1,0 +1,81 @@
+{
+  "greetings": ["hello", "hi", "hey", "hii", "hello there", "good morning", "good afternoon", "good evening", "namaste"],
+  "faqs": [
+    {
+      "question": "What are your hours of operation?",
+      "answer": "We operate Monday through Friday from 9:00 AM to 6:00 PM IST."
+    },
+    {
+      "question": "How do I submit my internship project?",
+      "answer": "You can submit your public GitHub repository link through your Student Workspace."
+    },
+    {
+      "question": "When will I receive my certificate?",
+      "answer": "Certificates are reviewed and issued within 3-5 business days after your code review."
+    },
+    {
+      "question": "How can I contact support?",
+      "answer": "Please use the help or support options in your Student Workspace on the Datheon website."
+    },
+    {
+      "question": "What are your working days?",
+      "answer": "We operate Monday through Friday."
+    },
+    {
+      "question": "What is the deadline for project submission?",
+      "answer": "Please complete and submit your tasks within the time shown on your dashboard."
+    },
+    {
+      "question": "Where do I find my tasks?",
+      "answer": "Log in to the Datheon website and open the Training Dashboard. Your tasks are listed there with their requirements."
+    },
+    {
+      "question": "Does the internship have any fee?",
+      "answer": "The evaluation is free. Step 3 on your dashboard is marked Zero Evaluation Fee."
+    },
+    {
+      "question": "What should my GitHub repository contain?",
+      "answer": "Upload your completed tasks to a public GitHub repository. For Task 4, include chatbot.py and the JSON dataset. A README is also a good idea."
+    },
+    {
+      "question": "Which programming language should I use?",
+      "answer": "Use Python 3 for this task, along with the re and json modules."
+    },
+    {
+      "question": "How do I run the chatbot?",
+      "answer": "Open a terminal in the project folder and run: python chatbot.py"
+    },
+    {
+      "question": "How can I exit the chatbot?",
+      "answer": "Type bye, exit or quit and the chatbot will close."
+    },
+    {
+      "question": "What is Task 4 about?",
+      "answer": "Task 4 is a rule-based interactive terminal chatbot in Python. It reads keywords with regular expressions, answers FAQs from a JSON file, handles unknown questions with a fallback, and exits on bye, exit or quit."
+    },
+    {
+      "question": "What should the final deliverable be?",
+      "answer": "An interactive chatbot.py with error handling and multi intent matching, uploaded to a public GitHub repository."
+    },
+    {
+      "question": "Where can I download the sample FAQ dataset?",
+      "answer": "Use the Download Sample FAQ Dataset (.JSON) button under Task 4 on your Training Dashboard."
+    },
+    {
+      "question": "Which tools are recommended?",
+      "answer": "Python 3, the re (regex) module and the json module."
+    },
+    {
+      "question": "What is fallback handling?",
+      "answer": "When the bot does not recognise a question, it replies politely and suggests topics instead of crashing or staying silent."
+    },
+    {
+      "question": "What is multi intent matching?",
+      "answer": "It means the bot can detect more than one topic in a single message and answer all of them."
+    },
+    {
+      "question": "How do I teach the chatbot a new answer?",
+      "answer": "Ask something it does not know, say yes when it offers to learn, then type the answer. It saves the new question and answer to faq.json."
+    }
+  ]
+} 
