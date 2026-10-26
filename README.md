@@ -100,7 +100,7 @@ Type `help` to see what the bot can answer, and `bye`, `exit` or `quit` to leave
 
 Bot: Good evening! I'm your internship assistant. What's your name?
 
-You: Ajay kumar
+You: Ajay 
  
 Bot: Nice to meet you, Ajay! Ask me anything, or type 'help'. Type 'bye', 'exit' or 'quit' to leave.
 
@@ -156,5 +156,5 @@ Bot: Goodbye, Ajay! Have a great day.
 
 
 
-Your Name
+ajay
 
